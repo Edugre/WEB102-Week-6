@@ -52,7 +52,7 @@ GIF created with ... MacOS Video Recorder
 ## Notes
 
 Describe any challenges encountered while building the app.
-I encounter challenges while fetching and filtering the data from the API
+1. I encountered challenges while fetching and filtering the data from the API
 
 ## License
 
